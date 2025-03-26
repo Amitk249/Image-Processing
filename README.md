@@ -14,13 +14,14 @@ This project focuses on detecting objects, brands, and sports equipment in image
 Below are sample detections performed by the model:
 
 ### Example 1:
-![Detected Objects](./mnt/data/Screenshot%20from%202025-01-24%2017-44-54.png)
+![Detected Objects]([Screenshot from 2025-01-24 17-44-54](https://github.com/user-attachments/assets/23d68dfa-286b-4bb6-badc-58c8649ab434))
 
 ### Example 2:
-![Detected Objects](./mnt/data/Screenshot%20from%202025-01-26%2002-18-13.png)
+![Detected Objects](![Screenshot from 2025-01-26 02-18-13](https://github.com/user-attachments/assets/b2fa85af-3351-4124-9593-)
 
 ## Technology Stack
-- **Python**: Core programming language.
+- **Python**: Core programming language.cd268da3e736)
+
 - **OpenCV**: Image processing and computer vision operations.
 - **TensorFlow/PyTorch**: Deep learning framework for object detection.
 - **Streamlit**: For building an interactive UI to upload and analyze images.
@@ -31,7 +32,8 @@ Below are sample detections performed by the model:
    ```sh
    git clone https://github.com/your-repo/image-processing-project.git
    cd image-processing-project
-   ```
+   ```!
+
 2. Install dependencies:
    ```sh
    pip install -r requirements.txt
