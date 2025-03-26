@@ -14,10 +14,13 @@ This project focuses on detecting objects, brands, and sports equipment in image
 Below are sample detections performed by the model:
 
 ### Example 1:
-![Detected Objects]([Screenshot from 2025-01-24 17-44-54](https://github.com/user-attachments/assets/23d68dfa-286b-4bb6-badc-58c8649ab434))
+![Screenshot from 2025-01-24 17-44-54](https://github.com/user-attachments/assets/7cd2c190-db5c-419f-8d44-4b99d7ba7115)
+
+
 
 ### Example 2:
-![Detected Objects](![Screenshot from 2025-01-26 02-18-13](https://github.com/user-attachments/assets/b2fa85af-3351-4124-9593-)
+![Screenshot from 2025-01-26 02-18-13](https://github.com/user-attachments/assets/2c89bd64-051a-41fa-aa9d-dc6522f9bc7e)
+
 
 ## Technology Stack
 - **Python**: Core programming language.cd268da3e736)
