@@ -19,7 +19,8 @@ Below are sample detections performed by the model:
 
 
 ### Example 2:
-![Screenshot from 2025-01-26 02-18-13](https://github.com/user-attachments/assets/2c89bd64-051a-41fa-aa9d-dc6522f9bc7e)
+
+[Screencast from 2025-01-27 14-38-34.webm](https://github.com/user-attachments/assets/f703bda4-4336-4afa-aa41-f7ed0ee5548f)
 
 
 ## Technology Stack
